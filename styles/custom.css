@@ -38,9 +38,21 @@ button:hover{
     border:15px;
     border-color:#F3D632;
     border-style: solid;
-    color:black;
+
     
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+    
+}
+
 
 li:hover{
 
@@ -92,7 +104,7 @@ li{
 
 }
 
-a{
+.nav-inline{
 
     color:white!important;
     font-family: avenir;
@@ -103,9 +115,6 @@ a{
     justify-content: center;
 }
 
-a:hover{
-    text-decoration: none;
-}
 
 nav{
     background-color: #364050;
