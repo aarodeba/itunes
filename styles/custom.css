@@ -15,20 +15,29 @@ article{
     padding: 20px;
     margin: 15px;
     width: 100%;
+    position: relative;
 }
 
 button{
     background-color:black;
-    border:none;
+    border:15px;
+    border-color:#F3D632;
+    border-style: solid;
     color: white;
     border-radius: 0;
     width: 100%;
+    position: absolute;
+    right: 0;
+    bottom:   5px;
+
 }
 
 button:hover{
     background-color:#CFB82C;
     font-weight: 500;
-    border:none;
+    border:15px;
+    border-color:#F3D632;
+    border-style: solid;
     color:black;
     
 }
