@@ -1,0 +1,108 @@
+h2,h3,h4,h5{
+    color: black;
+    padding-top: 5px;
+    font-family: avenir;
+ 
+}
+
+body{
+    background-color: black;
+    font-family: avenir;
+}
+
+article{
+    background-color:#F3D632;
+    padding: 20px;
+    margin: 15px;
+    width: 100%;
+}
+
+button{
+    background-color:black;
+    border:none;
+    color: white;
+    border-radius: 0;
+    width: 100%;
+}
+
+button:hover{
+    background-color:#CFB82C;
+    font-weight: 500;
+    border:none;
+    color:black;
+    
+}
+
+li:hover{
+
+    background-color: #CFB82C;
+}
+
+.btn-holder{
+   bottom: 0;
+   justify-content: flex-end;
+    
+}
+
+.row>div{
+    display: flex;
+    
+    
+}
+
+.container{
+    background-color: #7E7C6E;
+    margin-top: 10px;
+    border-radius: 
+    
+}
+.wrapper{
+    background-color: black;
+}
+
+.tracklist{
+    display: flex;
+    width: 100%;
+    
+}
+
+ol{
+    color: black;
+}
+
+li{
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-color: black;
+}
+
+.icon{
+    height: 30px;
+    width: auto;
+
+}
+
+a{
+
+    color:white!important;
+    font-family: avenir;
+    font-weight: 500;
+    font-size: 20pt; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+nav{
+    background-color: #364050;
+}
+
+.icon-bar{
+    background-color: #CFB82C;
+    padding: 5px;
+    
+}
